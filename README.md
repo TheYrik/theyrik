@@ -7,5 +7,5 @@
 ![C++](https://img.shields.io/badge/-C++-711178?style=for-the-badge&logo=cplusplus&logoColor=6395CC)
 
 ### Follow Me
-![Instagram](https://www.instagram.com/theyrikkk/)
+[![Instagram](https://img.shields.io/badge/-Instagram-711178?style=for-the-badge&logo=instagram&logoColor=6395CC)](https://www.instagram.com/theyrikkk/)
 
