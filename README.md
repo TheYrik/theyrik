@@ -1,4 +1,4 @@
-[![Header](https://github.com/TheYrik/theyrik/blob/main/assets/header.gif)](https://github.com/TheYrik)
+[![Header](https://github.com/TheYrik/theyrik/blob/main/assets/background-git.gif)](https://github.com/TheYrik)
 
 ## I`m student programmer 
 
