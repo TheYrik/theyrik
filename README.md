@@ -4,11 +4,11 @@
 
 ## 👨‍🎓 I`m student programmer
 
-##### 💻 Junior Frontend Developer
+#### 💻 Junior Frontend Developer
 
-##### 🌍 Based in Ukraine
+#### 🌍 Based in Ukraine
 
-##### 📖 Learning JavaScript & Web Development
+#### 📖 Learning JavaScript & Web Development
 
 ### 🛠️ Tech Stack
 
