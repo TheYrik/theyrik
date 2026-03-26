@@ -18,6 +18,8 @@
 
 ![C++](https://img.shields.io/badge/-C++-711178?style=for-the-badge&logo=cplusplus&logoColor=6395CC) ![C#](https://img.shields.io/badge/-C%23-711178?style=for-the-badge&logo=sharp&logoColor=white)
 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-711178?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/-Git-711178?style=for-the-badge&logo=Git)
