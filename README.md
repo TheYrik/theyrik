@@ -6,11 +6,11 @@
 
 #### 💻 Junior Frontend Developer
 
-#### 🌍 Based in Ukraine ![UA-Flag](https://github.com/TheYrik/theyrik/blob/main/assets/ukraine-flag.svg)
+#### 🌍 Based in Ukraine <img src="./assets/ukraine-flag.svg" width="20">
 
 #### 📖 Learning JavaScript & Web Development
 
-### <samp> 🛠️ Tech Stack </samp>
+### 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-711178?style=for-the-badge&logo=JavaScript) ![html](https://img.shields.io/badge/-Html-711178?style=for-the-badge&logo=html5) ![css](https://img.shields.io/badge/-css-711178?style=for-the-badge&logo=css&logoColor=3CA0D7)
 
