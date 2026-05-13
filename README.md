@@ -2,13 +2,13 @@
 
 # Hi, I`m Yrik
 
-## <samp>👨‍🎓 I'm student programmer</samp>
+## 👨‍🎓 I'm student programmer
 
-#### <samp> 💻 Junior Frontend Developer </samp>
+#### 💻 Junior Frontend Developer
 
-#### <samp>🌍 Based in Ukraine </samp>
+#### 🌍 Based in Ukraine ![UA-Flag](https://github.com/TheYrik/theyrik/blob/main/assets/ukraine-flag.svg)
 
-#### <samp>📖 Learning JavaScript & Web Development </samp>
+#### 📖 Learning JavaScript & Web Development
 
 ### <samp> 🛠️ Tech Stack </samp>
 
