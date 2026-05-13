@@ -2,15 +2,15 @@
 
 # Hi, I`m Yrik
 
-## 👨‍🎓 I`m student programmer
+## <samp>👨‍🎓 I'm student programmer</samp>
 
-#### 💻 Junior Frontend Developer
+#### <samp> 💻 Junior Frontend Developer </samp>
 
-#### 🌍 Based in Ukraine
+#### <samp>🌍 Based in Ukraine </samp>
 
-#### 📖 Learning JavaScript & Web Development
+#### <samp>📖 Learning JavaScript & Web Development </samp>
 
-### 🛠️ Tech Stack
+### <samp> 🛠️ Tech Stack </samp>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-711178?style=for-the-badge&logo=JavaScript) ![html](https://img.shields.io/badge/-Html-711178?style=for-the-badge&logo=html5) ![css](https://img.shields.io/badge/-css-711178?style=for-the-badge&logo=css&logoColor=3CA0D7)
 
@@ -30,7 +30,7 @@
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheYrik&show_icons=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=TheYrik&show_icons=true&theme=synthwave)
 
 ### Follow Me
 
